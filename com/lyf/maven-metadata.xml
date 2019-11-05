@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>databinding-maven-plugin</name>
+      <prefix>databinding</prefix>
+      <artifactId>databinding-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
